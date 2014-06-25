@@ -1,1 +1,1 @@
-web: bin/hubot --adapter slack -n Pistachio
+web: bin/hubot --adapter $HUBOT_ADAPTER -n bro
